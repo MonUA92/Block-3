@@ -1,0 +1,165 @@
+
+.mountain-top{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h1{
+  text-align: center;
+  margin: 50px auto 0 auto;
+  font-family: 'Bangers', cursive;
+  font-size: 9.635rem;
+  line-height: 2;
+  color: #11999E;
+  padding-bottom: 10px;
+  border: dotted #11999E 9px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+ 
+}
+
+h2{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color:#11999E;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  font-size: 2.5rem;
+  color: #11999E;
+  margin: 100px auto;
+}
+
+#main-logo{
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+}
+
+
+a{
+  color: #11999E;
+  font-family: 'Dosis', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #11999E 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+
+
+.cs-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.quality-products{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+
+.customer-service{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  
+}
+
+.footer-link{
+  margin-left: 10px;
+  color: black;
+
+}
+.careers{
+  margin: 40px auto 60px;
+   color: black ;
+   font-size: 25px;
+   font-family: 'bangers';
+   border: none;
+   width: auto;
+
+}
+
+.soundpi-bottom{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  font-size: 15px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+  
+}
+
+
+.top-container{
+background-color:#d7fffd;
+position: relative;
+padding-top: 5px;
+
+}
+
+.middle-container{
+  margin: 100px 0;
+  text-align: center;
+  
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+  text-align: center;
+  font-size: 20px;
+  
+
+
+}
+
+.top-cloud{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+}
+
+.bottom-cloud{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.logo-image{
+  width: 45px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}

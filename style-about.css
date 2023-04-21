@@ -1,0 +1,56 @@
+.body{
+  background-color: #11999E;
+}
+ 
+ 
+ .name {
+    color: #11999E;
+    font-family: 'Bangers', cursive;
+  }
+  
+  .work {
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
+  .about span {
+    font-size: 13px;
+  }
+  
+  .connect-me{
+    color: #11999E;
+    cursor: pointer;
+  }
+  
+  .box {
+    -webkit-box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
+    -moz-box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
+    box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
+  }
+  
+  .col-md-3 {
+    margin-top: 50px;
+  }
+
+  .container{
+    margin-top: 10%;
+  }
+
+  #team{
+    font-family: 'Bangers', cursive;
+    color: #11999E;
+    font-size: 80px;
+    
+  }
+
+  .logo-image{
+    width: 45px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+ }
+
+ .navbar-toggler{
+  color: black;
+ }
